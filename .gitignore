@@ -1,0 +1,9 @@
+# Chặn thư mục biên dịch của Java/Maven
+target/
+*.class
+
+# Chặn cấu hình riêng của VS Code
+.vscode/
+
+# Chặn các file log
+*.log
